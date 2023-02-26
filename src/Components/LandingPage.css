@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+}
+.left{
+    margin-left:20% ;
+    margin-top: 5%;
+}
+
+#image{
+    height: 650px;
+    width: 500px;
+}
+.heading{
+    padding-top:180px;
+    color: green;
+}
+.right{
+    margin-left: 10%;
+    margin-top: 10%;
+}
+button{
+    padding: 10px;
+    color:green;
+    width: 80px;
+    border-radius: 10px;
+    cursor: pointer;
+}
